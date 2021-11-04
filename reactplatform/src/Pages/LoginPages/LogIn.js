@@ -100,7 +100,7 @@ class LoginForm extends React.Component {
             </div>
           </div>
         </div>
-        <MaskotBoll top="68%" right="1%" />
+        <MaskotBoll top="68%" right="2%" />
         <Boll className="grönboll" top="8%" left="5%" />
         <Boll className="gulboll" left="15%" bottom="-20%" />
         <Boll className="blåboll" right="13%" top="-5%" />
