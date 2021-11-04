@@ -15,7 +15,6 @@ import TidrapportDetalj from './Pages/Tidrapportsida/Detaljtidrappsida';
 import Inställningar from './Pages/Inställningarsida/Inställningar';
 import Statistik from './Pages/Statistiksida/Statistiksida';
 import Åtkomst from './Pages/Åtkomst/Åtkomst';
-import App from './App';
 import './App.css';
 
 const rootElement = document.getElementById('root');
